@@ -28,7 +28,7 @@ An agent summary is an object with three keys:
 
 For example, something like:
 
-```
+```js
 {
   name: 'pizzeria',
   entities: [

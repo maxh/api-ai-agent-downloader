@@ -11,9 +11,9 @@ const fetchJson = (url, options) => {
         throw Error(JSON.stringify(json));
       }
       return json;
-    })
+    });
   });
-}
+};
 
 
 var ThrottledFetcher = function(throttleMs = 1000) {
