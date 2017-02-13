@@ -1,0 +1,16 @@
+{
+  "name": "api-ai-agent-downloader",
+  "version": "0.0.1",
+  "description": "Download your API.AI agent's intents and entities for backup or analysis.",
+  "main": "index.js",
+  "author": "Max Heinritz",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "lodash.throttle": "^4.1.1",
+    "promise": "^7.1.1"
+  },
+  "engines": {
+    "node": ">=7"
+  },
+}
