@@ -1,6 +1,6 @@
 # API.AI Agent Downloader
 
-Programmatically download your API.AI agent intents and entities for backup or analysis.
+Programmatically download API.AI agent intents and entities for backup or analysis.
 
 ## Usage
 
